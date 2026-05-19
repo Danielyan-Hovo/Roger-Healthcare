@@ -1,0 +1,143 @@
+<patient_demographics>
+- Name: James "Jim" Wright
+- DOB: 01/02/1944 (81 years old)
+- Gender: Male
+- Race: White
+- Primary Language: English
+- Marital Status: Married
+</patient_demographics>
+
+<patient_contact_information>
+- Home Address: 1777 Lost Oak Trail, Johnson City, Texas 78636
+- Mobile Phone: 8303479177
+- Living Arrangement: Lives at home alone
+- Uses wheelchair for mobility
+</patient_contact_information>
+
+<emergency_contact>
+Wesley Wright (Child)
+Phone: 5122974795
+Relationship: Child
+</emergency_contact>
+
+<insurance_details>
+Primary Insurance: Blue Cross Medicare Advantage / City of Austin
+Policy Number: ZZT804479037
+Group Number: PTX00025
+Effective Date: 01/01/2025
+</insurance_details>
+
+<payment_source>
+Medicare Advantage through Blue Cross / City of Austin
+</payment_source>
+
+<diagnoses>
+Primary Diagnoses:
+- Chronic Venous Insufficiency, bilateral lower extremities
+- Chronic Edema with Lymphedema, bilateral lower extremities (onset 01/01/2022)
+- Lymphorrhea, bilateral lower extremities
+- Stasis dermatitis, bilateral lower extremities
+- Generalized Debility
+- Pressure Ulcer, coccygeal, stage 2 (added 5/21)
+- Eczema legs (added 8/27/24)
+- Skin tears (2), left forearm (added 1/7/25)
+- Localized edema (R60.0) - both legs
+- Skin tear, left forearm (S51.812A) - initial encounter
+</diagnoses>
+
+<medical_history>
+- Lymphedema (I89.0)
+- Onychogryphosis (L60.2)
+- Pain, unspecified (R52)
+- Previous knee surgeries
+- Unable to provide adequate self-care due to body habitus
+- History of chronic swelling
+- History of edema
+- History of lymphorrhea of both legs
+</medical_history>
+
+<allergies>
+NKDA (No Known Drug Allergies)
+</allergies>
+
+<medications>
+Current medications include:
+- Triamcinolone 0.1% cream (for eczema)
+- Bacitracin (for skin tear)
+- Vitamin A&D ointment (for legs)
+</medications>
+
+<cultural>
+Primary Language: English
+Has hearing aids in both ears
+Speech is noted to be accented
+</cultural>
+
+<risk_factors>
+- Obesity (BMI 43.53)
+- Current tobacco user (chewing tobacco)
+- Limited mobility/uses wheelchair
+- Recent fall during medical visit (1/7/2025)
+- Poor health appearance
+- Unable to provide adequate self-care
+</risk_factors>
+
+<prior_functioning>
+Patient requires assistance with leg care and compression wrapping
+Previously followed by Wound Healing Associates for chronic swelling
+Required home health services 2-3x/week for leg care
+</prior_functioning>
+
+<prior_device_use>
+- Uses hearing aids in both ears
+- Uses wheelchair for mobility
+- Uses pneumatic leg sleeves for lymphedema
+- Uses lymphedema pumps daily
+</prior_device_use>
+
+<intensive_care_therapies>
+- Weekly gradient wraps, previously 3x/week
+- Current compression therapy with Kerlix, cast padding, and Coban
+- Daily use of lymphedema pumps
+- Regular wound care and dressing changes
+</intensive_care_therapies>
+
+<skin_condition>
+- Skin tears on left forearm (as of 1/7/2025)
+- Eczema on legs (diagnosed ~2 months ago)
+- Stasis dermatitis on bilateral lower extremities
+- Previous pressure ulcer, coccygeal, stage 2
+- Chronic lymphorrhea
+- Good skin integrity noted on recent exam with no open wounds
+</skin_condition>
+
+<endocrine>
+No specific endocrine conditions noted in provided documentation
+</endocrine>
+
+<homebound_reason>
+Limited mobility requiring wheelchair use
+Unable to provide adequate self-care due to body habitus and previous knee surgeries
+Requires assistance with daily medical care
+</homebound_reason>
+
+<advanced_directives>
+<UNKNOWN>
+</advanced_directives>
+
+<health_screenings>
+<UNKNOWN>
+</health_screenings>
+
+<recent_immunizations>
+<UNKNOWN>
+</recent_immunizations>
+
+<ssn_number>
+<UNKNOWN>
+</ssn_number>
+
+<inpatient_facility>
+Currently receiving home health services
+Recent care at Hill Country Wound Care Vascular & Hyperbarics facilities in Live Oak and Bulverde
+</inpatient_facility>

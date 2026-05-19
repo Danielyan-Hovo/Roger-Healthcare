@@ -1,0 +1,156 @@
+<insurance_details>
+Medicare ID: 1TMK06GPK36
+Secondary Insurance: Mutual of Omaha (Medicare Supplement) ID: 492433-97
+Tertiary Insurance: ACE - USA Senior Care (Medicare Supplement) ID: 49243397
+</insurance_details>
+
+<ssn_number>
+<UNKNOWN>
+</ssn_number>
+
+<cultural>
+Primary language: English (implied from documentation)
+No interpreter needs documented
+</cultural>
+
+<payment_source>
+Primary: Medicare Traditional
+Secondary: Medicare Supplement (Mutual of Omaha)
+Tertiary: Medicare Supplement (ACE - USA Senior Care)
+</payment_source>
+
+<patient_demographics>
+- Name: Bettye Wellons
+- DOB: 01/23/1940
+- Age: 85
+- Gender: Female
+- Height: 5'3" (measured 02/07/2025)
+- Weight: 145 lbs (measured 02/07/2025)
+- BMI: 25.7 (measured 02/07/2025)
+</patient_demographics>
+
+<patient_contact_information>
+- Address: 9306 Great Hills Trail, Apt 225 Mailbox 32, Austin, TX 78759
+- Cell Phone: (512) 791-0987
+- Home Phone: (512) 791-0987
+- Portal registration: Declined 10/16/2024 (does not want to provide email)
+</patient_contact_information>
+
+<emergency_contact>
+<UNKNOWN>
+</emergency_contact>
+
+<inpatient_facility>
+Facility: SDSH (Saint David Surgical Hospital)
+Planned admission for RIGHT Total Knee Arthroplasty on 03/26/2025
+Patient wishes to have inpatient rehab following surgery
+</inpatient_facility>
+
+<diagnoses>
+Primary:
+- Right knee severe osteoarthritis with acute exacerbation (M17.11)
+- Unilateral post-traumatic osteoarthritis, right knee (M17.31) - diagnosed 09/16/2024
+- Valgus deformity of right knee
+- Bone-on-bone osteoarthritis at the lateral joint (confirmed by X-ray 02/07/2025)
+</diagnoses>
+
+<medical_history>
+- GERD/Reflux
+- Hysterectomy (date unknown)
+- Colonoscopy (date unknown)
+- Family history of Hypertension
+- Never smoker (tobacco screening 04/09/2024)
+- Previous treatments for knee:
+  * Prior cortisone injections
+  * Prior gel injections
+</medical_history>
+
+<intensive_care_therapies>
+Current treatment plan:
+- Scheduled for RIGHT Total Knee Arthroplasty on 03/26/2025
+- Home Health Physical Therapy ordered:
+  * 1 pre-op PT visit within 3 weeks before surgery
+  * Post-op: 1-3 visits per week until no longer homebound
+  * 9 visits in first 21 days (requires physician approval for additional visits)
+- Anticoagulation: ASA 81mg BID post-surgery
+- Post-op wound care protocol with Aquacel/Mepilex dressing
+- TED hose bilaterally thigh high until follow-up
+</intensive_care_therapies>
+
+<recent_immunizations>
+None recorded in documentation
+</recent_immunizations>
+
+<allergies>
+- PENICILLINS
+- SULFA (SULFONAMIDE ANTIBIOTICS)
+</allergies>
+
+<risk_factors>
+- Advanced age (85 years old)
+- Multiple medications (12+ medications)
+- Upcoming major surgery
+- Mobility issues due to knee condition
+- Requires assistive devices for mobility
+</risk_factors>
+
+<health_screenings>
+- Tobacco screening completed 04/09/2024
+- Recent knee X-ray (02/07/2025) showing severe osteoarthritis
+</health_screenings>
+
+<homebound_reason>
+Current: Pre-operative decreased mobility
+Post-surgery (anticipated):
+- Decreased mobility
+- Weakness and abnormality of gait following joint replacement surgery
+</homebound_reason>
+
+<advanced_directives>
+None recorded in documentation
+</advanced_directives>
+
+<endocrine>
+No specific endocrine conditions documented
+</endocrine>
+
+<skin_condition>
+Current skin status not documented, but post-surgical protocol includes:
+- Occlusive skin closure (PRINEO DERMABOND) planned
+- Specific wound care protocol with Aquacel/Mepilex dressing for 7 days post-surgery
+</skin_condition>
+
+<medications>
+Current medications (as of documentation):
+1. amLODIPine 5mg daily (filled 01/30/25)
+2. azithromycin 250mg (filled 11/12/24)
+3. buPROPion HCL XL 150mg daily (filled 12/18/24)
+4. carvedilol 12.5mg twice daily (filled 01/31/25)
+5. cefuroxime axetil 250mg (filled 11/12/24)
+6. cephALEXin 500mg (filled 05/01/24)
+7. chlorthalidone 25mg daily (filled 12/17/24)
+8. ciprofloxacin 500mg (filled 01/17/25)
+9. famotidine 40mg evening (filled 01/30/25)
+10. fluticasone-salmeterol inhaler (filled 12/10/24)
+11. HYDROcodone-acetaminophen (filled 04/12/23)
+12. traZODone 50mg daily (filled 01/30/25)
+
+High-risk medications include:
+- Anticoagulants (planned ASA post-surgery)
+- Antibiotics
+- Narcotic pain medication
+</medications>
+
+<prior_functioning>
+Physical exam findings pre-surgery (02/07/2025):
+- Normal gait and upright posture noted
+- Right knee: full range of motion, 5/5 flexion and extension
+- Left knee: normal appearance, full range of motion
+- No instability noted
+</prior_functioning>
+
+<prior_device_use>
+Current/Planned:
+- Rolling walker ordered
+- Post-surgery progression plan: 2-wheel walker, then cane or crutch as able
+</prior_device_use>

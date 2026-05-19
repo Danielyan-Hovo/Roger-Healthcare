@@ -1,0 +1,92 @@
+- Patient has a cardiologist at Austin Heart.
+- No recent hospitalizations.
+- Incident at wound care facility: not a fall, but patient ended up on the floor due to slippery conditions and improper support while getting off the examination table.
+- Patient experienced a skin tear on the arm during the incident, caused by being grabbed between the elbow and wrist; skin in this area is notably thin and prone to tearing.
+- Patient has a history of skin tears in the same area, occurring three times previously due to similar handling by nurses.
+- Patient is hard of hearing and requires that people speak directly towards them for better communication.
+- Clinician visited due to recommendation from wound care doctor for a checkup.
+- Patient has undergone related medical procedures two or three times previously.
+- Patient's pain management doctor, Dr. Marks, commended the patient for having exceptional control over their pain medications, stating no other patient has shown such control in his 12-15 years of practice.
+- Patient acknowledges the importance of maintaining a schedule for pain medication to avoid severe pain and the challenges of catching up if doses are missed.
+- Patient has a background as an EMTA, equivalent to a paramedic but without the ability to administer drugs; could start IVs but not push drugs.
+- Patient confirmed receiving the flu vaccine this year.
+- Patient has also received the RSV vaccine and is up to date with pneumonia vaccinations.
+- Patient received COVID booster this year, flu vaccine, and RSV vaccine last year.
+- Patient waits about a month after vaccines are released before getting them.
+- Today's date confirmed as January 22nd.
+- Patient has not been treated for a urinary tract infection recently.
+- Clinician plans to check vitals, perform wound care, and obtain signatures.
+- Supplies for care include Curlex, cash wrap, and Coban.
+- Blood pressure measurement attempted by clinician
+- Patient's heart rate noted as occasionally low
+- Patient has undergone multiple stress tests with no heart trouble identified
+- Patient reports using snuff but does not drink alcohol or smoke cigarettes.
+- Blood pressure measured at 115 over 62.
+- Patient suggests that blood pressure might increase to 125-128 after 20-30 minutes.
+- Clinician performed lung auscultation, instructing the patient to take deep breaths.
+- Patient reports heart has skipped beats since high school, during participation in multiple sports.
+- Patient takes pain medication regularly and counts remaining pills nightly using a clean towel to ensure accuracy.
+- Clinician used Xeroform and wound cleanser for dressing change.
+- Clinician instructed to order gauze 4x4s for future use.
+- Patient changed their dressing themselves yesterday.
+- Dressing has been on since yesterday.
+- Dressing is stuck and causing discomfort upon removal.
+- Nurse noted that this is the first time the dressing has bled during removal.
+- Nurse plans to soak the dressing prior to the next visit to ease removal.
+- Woodcare has been using a wrap of Coban for the patient.
+- Patient self-treated a skin wound by pulling edges together and securing them, resulting in rapid healing.
+- Noted that skin is currently regrowing; improvement observed over the last two days.
+- Patient requests bandages to be a little wider as they tend to move.
+- Patient mentions a shortage of Zero form and lacks small tape measures.
+- Time in: 2:30 PM, Time out: 4:30 PM
+- Patient's ethnicity: Caucasian, non-Hispanic
+- Insurance: Medicare Advantage
+- Medical power of attorney: Wesley Wright
+- Pulse: 62, irregular
+- Weight: 238 pounds
+- Height: 6'1"
+- Blood pressure: 115 over 65
+- Temperature: 97.6 degrees Fahrenheit
+- Respirations: 18 per minute
+- Oxygen saturation: 97% on room air
+- Shortness of breath with moderate exertion
+- Lung sounds: clear
+- Bowel sounds: present
+- Last bowel movement: today
+- No urinary issues
+- Incontinence present
+- No symptoms of urinary tract infection (UTI)
+- No treatment for UTI
+- No recent inpatient stay or hospitalization
+- Homebound status: confirmed
+- Mobility aids: needs a walker and other assistive devices
+- Cannot leave the home unassisted
+- Medical conditions: lymphedema, hypertension
+- Prognosis: fair
+- Hearing: hard of hearing
+- Vision: needs glasses for reading
+- Needs assistance with health literacy and financial ability
+- Cognitive function: able to recall three words, knows month, day, and year
+- Alert and oriented times four
+- Mood and behavior: appropriate
+- No anxiety or confusion
+- Patient lives alone with a paid caregiver for assistance.
+- No oxygen or special therapies in the home.
+- Self-care status unchanged from before illness.
+- Uses a walker.
+- Has dressing supplies available at home.
+- No ostomy or catheter present.
+- Reports pain level at 5, generalized, affecting sleep.
+- Normal heart sounds; no edema observed.
+- Wearing lymphedema wraps.
+- Follows a heart-healthy diet.
+- Skin turgor is fair; skin color within normal limits.
+- High-risk medication includes morphine.
+- No injectable medications used.
+- Patient's mood and behavior are normal.
+- Patient experiences social isolation.
+- Patient requires assistance with lower body dressing, upper body dressing, grooming, and bathing.
+- Patient has incontinence of bladder.
+- Patient is able to feed self.
+- Orders for physical therapy and occupational therapy
+- Patient's pain is controlled with medication

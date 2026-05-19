@@ -1,0 +1,14 @@
+- Patient weighs 134 pounds as stated.
+- Patient is 5 feet 3 inches tall.
+- Patient did not have COVID-19 and shingles vaccines.
+- Blood pressure was 110 over 62.
+- Patient is sitting down.
+- Oxygen level is 99% on room air.
+- Heart rate is 83.
+- Heart rate is regular
+- Respiratory rate is 18
+- Temperature was 97.5, measured temporally.
+- Patient's race: white, Caucasian
+- Patient has transportation provided by her daughter, Lisa, who is also her caregiver
+- Patient does not have medical power of attorney or living will set up yet
+- Patient successfully recalled the words "bed," "blue," and "sock" without difficulty.
