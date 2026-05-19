@@ -12,8 +12,13 @@ from functools import lru_cache
 
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
-# Hard-coded production model (per spec).
-ANTHROPIC_MODEL: str = "claude-3-5-sonnet-20241022"
+# Hard-coded production model. Originally specified as
+# `claude-3-5-sonnet-20241022`; pinned here to the closest available
+# successor on the deployment account (Claude Sonnet 4.5, which is the
+# direct Sonnet-tier upgrade path Anthropic recommends for accounts that
+# don't have access to the 3.5 legacy SKU). The constant stays a single
+# audit point so swapping models in the future is a one-line change.
+ANTHROPIC_MODEL: str = "claude-sonnet-4-5-20250929"
 
 
 class Settings(BaseSettings):

@@ -45,3 +45,6 @@ desktop.ini
 *.log
 .coverage
 htmlcov/
+
+# ---- QA scratch (local test harness, not for commit) ----
+qa_scratch/
